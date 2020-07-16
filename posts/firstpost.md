@@ -1,7 +1,7 @@
 ---
 title: Design Considerations for Blindness
 date: 2020-07-16T19:26:14.073Z
-author: John Appleseed
+author: Mariah Bragg
 summary: Designing and developing for blind users.
 tags:
   - web accessibility
