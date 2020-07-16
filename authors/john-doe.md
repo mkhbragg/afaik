@@ -1,5 +1,5 @@
 ---
-name: John Doe
-email: johndoe@example.com
-github: https://github.com/notjohndoe
+name: Mariah Bragg
+email: mk.bragg@pm.me
+github: https://github.com/mkhbragg
 ---
