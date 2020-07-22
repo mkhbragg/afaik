@@ -8,7 +8,7 @@ tags:
   - wcag
   - design
   - development
-  - blindness
+  - vision
 ---
 ## As a Developer
 
