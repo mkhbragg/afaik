@@ -2,7 +2,7 @@
 title: Design Considerations for Blindness
 date: 2020-07-16T19:26:14.073Z
 author: Mariah Bragg
-summary: Designing and developing for blind users.
+summary: "[Designing and developing for blind users]"
 tags:
   - web accessibility
   - wcag
