@@ -1,15 +1,26 @@
 ---
-title: This is my second post
-summary: Why contemplating our mortality can be a powerful catalyst for change
-date: 2016-01-01
-author: Dan Urbanowicz
+title: Types of Low Vision
+date: 2020-07-22T19:47:11.739Z
+author: Mariah Bragg
+summary: What can cause low vision and what is it like?
 tags:
-  - sport
+  - vision
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-## Section Header
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+### Types of Low Vision
+#### Blur
+* Foreground elements may be difficult to distinguish from background elements
+* Small text may be hard to read
+#### Blur with Low Contrast
+* Hard to distinguish outlines, borders, edges, and details
+#### Cataracts
+* Multiple blind spots may result in missed visual information
+#### Diabetic Retinopathy
+* Floating dark spots may result in missed visual information
+#### Glaucoma
+* Darkened edges, like looking through a narrow tube
+#### Hemianopia
+* Vision loss in either the right or left side of both eyes
+#### Macular Degeneration
+* Loss of vision at the center of the eye
+#### Retinal Detachment
+* Multiple potential effects, including floaters, flashes of light, and dark shadows in the field of vision
