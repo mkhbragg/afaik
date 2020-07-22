@@ -1,12 +1,11 @@
 ---
-title: Types of Low Vision
+title: What is Low Vision?
 date: 2020-07-22T19:47:11.739Z
 author: Mariah Bragg
-summary: What can cause low vision and what is it like?
+summary: 🙋
 tags:
   - vision
 ---
-### Types of Low Vision
 #### Blur
 * Foreground elements may be difficult to distinguish from background elements
 * Small text may be hard to read
