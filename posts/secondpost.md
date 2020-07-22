@@ -2,7 +2,8 @@
 title: What is Low Vision?
 date: 2020-07-22T19:47:11.739Z
 author: Mariah Bragg
-summary: 🙋
+summary: "[And how having low vision might impact the way they interact with
+  your website.]"
 tags:
   - vision
 ---
