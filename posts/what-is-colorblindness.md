@@ -22,6 +22,8 @@ For most people with colorblindness, it means difficulty distinguishing between 
 
 * All colors appear as shades of gray, black, and white
 
-Red-green colorblindness is the most common.
+#### Red-black
+* Reds and black are difficult to distinguish.
 
-It is also common to use the colors red-green colors to mean "bad"-"good" or "on"-"off", but [do not rely only on those colors to communicate](https://blissful-brown-5e79ef.netlify.app/posts/design-considerations-for-color-blindness/).
+
+It is common to use red-green colors to mean "bad"-"good" or "on"-"off", but [do not rely only on those colors to communicate](https://blissful-brown-5e79ef.netlify.app/posts/design-considerations-for-color-blindness/).
