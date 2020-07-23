@@ -10,4 +10,4 @@ eleventyNavigation:
 
 # (as far as I know)
 
-Attempts to sensically convey what I know so far about accessibility, inclusive design, and web development.
+Attempts to sensically convey topics in accessibility, inclusive design, and web development.
