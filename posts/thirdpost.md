@@ -22,4 +22,4 @@ Convey information with text and symbols as well as color.
 
 If you find yourself coding up designs that rely on color, kindly let your designers know!
 
-What is colorblindness?
+[Learn more about colorblindness](https://blissful-brown-5e79ef.netlify.app/posts/what-is-colorblindness/)
