@@ -10,7 +10,7 @@ tags:
   - DEVELOPMENT
   - VISION
 ---
-## Do not use color alone to communicate information.
+# **Do not use color alone to communicate information.**
 
 That's it! Super easy. Colors are SO much fun, but they become less fun when you can't differentiate between them.
 
