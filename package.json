@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-netlify-boilerplate",
+  "name": "afaik",
   "version": "1.0.3",
-  "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
+  "description": "Attempts to sensically convey topics in accessibility, inclusive design, and web development.",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",

@@ -8,6 +8,4 @@ eleventyNavigation:
   order: 0
 ---
 
-# (as far as I know)
-
 Attempts to sensically convey topics in accessibility, inclusive design, and web development.
