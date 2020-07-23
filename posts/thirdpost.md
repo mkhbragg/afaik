@@ -1,23 +1,25 @@
 ---
-title: This is my third post which has a rather long title
-date: 2017-01-01T00:00:00.000Z
-author: Jane Doe
-summary: Why contemplating our mortality can be a powerful catalyst for change
+title: Design Considerations for Color Blindness
+date: 2020-07-23T13:42:34.831Z
+author: Mariah Bragg
+summary: "You only need to follow one rule:"
 tags:
-  - tech
-  - politics
+  - WEB ACCESSIBILITY
+  - WCAG
+  - DESIGN
+  - DEVELOPMENT
+  - VISION
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## Do not use color alone to communicate information.
 
-```
-pre,
-code {
-	line-height: 1.5;
-}
-```
+That's it! Super easy. Colors are SO much fun, but they become less fun when you can't differentiate between them.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+### As a Designer
 
-## Section Header
+Convey information with text and symbols as well as color.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+### As a Developer
+
+If you find yourself coding up designs that rely on color, kindly let your designers know!
+
+What is colorblindness?
