@@ -29,4 +29,4 @@ That's it! Super easy. Colors are SO much fun, but they become less fun when you
 - [No Coffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl?hl=en-US) (Chrome plugin)
 - [Color Oracle](http://www.colororacle.org/) (Windows/Mac/Linux download)
 
-[Learn more about colorblindness](/posts/what-is-colorblindness/)
+[Learn more about colorblindness](/posts/what-is-color-blindness/)
