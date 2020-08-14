@@ -5,11 +5,56 @@
   <title>{{ title or renderData.title or metadata.title }}</title>
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
-    {% include "assets/css/inline.css" %}
+  {% include "assets/css/inline.css" %}
   {% endset %}
-  <style>{{ css | cssmin | safe }}</style>
+  <style>
+    {{css | cssmin | safe}}
+  </style>
   {% set js %}
-    {% include "assets/js/inline.js" %}
+  {% include "assets/js/inline.js" %}
   {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
+  <script>
+    {{ js | jsmin | safe }}
+  </script>
+
+  <script>
+    function updateAriaLabel(themeName) {
+      const mode = themeName.includes('light')
+        ? 'Dark Mode'
+        : 'Light Mode';
+      document
+        .getElementById('theme-switch')
+        .setAttribute('aria-label', mode);
+    }
+
+    // function to set a given theme/color-scheme
+    function setTheme(themeName) {
+      localStorage.setItem('theme', themeName);
+      document.documentElement.className = themeName;
+      if (document.getElementById('theme-switch')) {
+        updateAriaLabel(themeName)
+      } else {
+        window.onload = function () {
+          updateAriaLabel(themeName)
+        }
+      }
+    }
+    // function to toggle between light and dark theme
+    function toggleTheme() {
+      if (localStorage.getItem('theme') === 'theme-dark') {
+        setTheme('theme-light');
+      } else {
+        setTheme('theme-dark');
+      }
+    }
+
+    // Immediately invoked function to set the theme on initial load
+    (function () {
+      if (localStorage.getItem('theme') === 'theme-dark') {
+        setTheme('theme-dark');
+      } else {
+        setTheme('theme-light');
+      }
+    })();
+  </script>
 </head>
