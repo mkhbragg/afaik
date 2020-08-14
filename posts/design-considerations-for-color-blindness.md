@@ -4,11 +4,11 @@ date: 2020-07-23T13:42:34.831Z
 author: Mariah Bragg
 summary: "[You only need to follow one rule]"
 tags:
-  - WEB ACCESSIBILITY
-  - WCAG
-  - DESIGN
-  - DEVELOPMENT
-  - VISION
+  - web accessibility
+  - wcag
+  - design
+  - development
+  - vision
 ---
 
 # **Do not use color alone to communicate information.**
