@@ -4,7 +4,7 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /resources/index.html
 eleventyNavigation:
   key: Resources
-  order: 3
+  order: 1
 ---
 
 ### [Color contrast checker](https://webaim.org/resources/contrastchecker/)

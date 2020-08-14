@@ -4,9 +4,13 @@ section: author
 ---
 <h1>{{ name }}</h1>
 
-<p><a href="mailto:{{ email }}">{{ email }}</a></p>
-<p><a href="{{ github }}">View on GitHub</a></p>
+<p>
+  <a href="mailto:{{ email }}">{{ email }}</a>
+</p>
+<p>
+  <a href="{{ github }}">View on GitHub</a>
+</p>
 
 <nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
+  <a href="{{ '/tidbits/' | url }}">← tidbits</a>
 </nav>

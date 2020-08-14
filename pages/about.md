@@ -1,10 +1,10 @@
 ---
-title: 👋 Hey there! I'm Mariah
+title: 👋 Hey there! I'm Mariah.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
-  order: 1
+  order: 2
 ---
 
 <!-- I like solving problems, conversation, hiking, board games, and studying Jedi mind tricks. As often as I can, I ride the best bike in the world: my All-City Space Horse. You also think it is the best bike in the world. -->
