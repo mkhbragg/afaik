@@ -4,10 +4,10 @@ date: 2020-08-14T14:34:44.364Z
 author: Mariah Bragg
 summary: "[And how being deaf might impact the way you interact with websites.]"
 tags:
-  - WEB ACCESSIBILITY
-  - WCAG
-  - DESIGN
-  - DEVELOPMENT
+  - web accessibility
+  - wcag
+  - design
+  - development
   - hearing
 ---
 Most design and development considerations for deafness relate to rich media, like videos.
